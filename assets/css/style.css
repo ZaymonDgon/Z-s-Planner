@@ -69,3 +69,13 @@ textarea {
   font-size: 20px;
   transition: all 0.3s ease-in-out;
 }
+
+div {
+  background-color: beige;
+}
+
+#mod {
+  color: rgba(20, 16, 16, 0.667);
+  font-size: 25px;
+  padding: 15px 0;
+}
